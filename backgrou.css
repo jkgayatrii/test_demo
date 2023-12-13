@@ -1,0 +1,128 @@
+.box{
+border: 2px solid black;
+width: 23%;
+height: 400px;
+background-color: white;
+padding: 20px 0px 15px;
+margin-top: 15px;
+
+}
+.box-section{
+background-color: E95793;
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+}
+h2{
+width: 280px;
+height: 23px;
+font: 21px;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+p{
+font: 13px;
+width: 260px;
+height: 15px;
+color: #007185;
+}
+.box-image{
+height: 300px;
+background-size: contain;
+margin-top: 1rem;
+margin-bottom: 1rem;
+
+}
+.box-content{
+margin-left: 10px;
+margin-right: 10px;
+}
+.back{
+    width: 4000px;
+    height: 400px;
+    background-image: url("back.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+.two{
+    color: black;
+    font: 0.85rem;
+    width: 80%;
+    height: 40px;
+    margin-bottom: 25px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    
+    background-color: white;
+}
+.two a{
+    color: 007185;
+}
+footer{
+    margin-top: 15px;
+}
+.totop{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+ul{
+    margin-top: 20px;
+}
+
+.totp2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #222f3d;
+    height: 300px;
+    color: white;
+
+}
+
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+.amo{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #222f3d;
+    color: white;
+    height: 75px;
+    border: 0.5px solid black;
+}
+.zon{
+    width: 100px;
+    height: 50px;
+    background-image: url("amzon.png");
+    background-size: cover;
+}
+.conA {
+    padding-top: 25px;
+    text-align: center;
+}
+.con{
+    background-color: 31A22;
+    height: 100px;
+    color: DDDDDD;
+    padding-top: 5px;
+    font-size: 0.7rem;
+    
+
+}
+.conB {
+    padding-top: 5px;
+    text-align: center;
+}
